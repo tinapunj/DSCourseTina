@@ -1,2 +1,0 @@
-# DSCourseTina
-Course Materials
